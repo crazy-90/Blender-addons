@@ -1,0 +1,15 @@
+
+  schema_version = "1.0.0"
+  id = "save_reminder"
+  version = "1.4.0"
+  name = "Save Reminder"
+  tagline = "reminders to save your work"
+  maintainer = "Logan Sergeant"
+  type = "add-on"
+  tags = ["3D View"]
+  blender_version_min = "4.2.0"
+  blender_version_max = "4.5.99"
+  license = ["SPDX:GPL-3.0-or-later"]
+  website = "https://extensions.blender.org/accounts/extensions/"
+  platforms = ["windows-x64", "linux-x64"]
+
